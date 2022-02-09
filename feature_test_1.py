@@ -7,4 +7,4 @@ def hello():
     print('world')
     
     
-print(ABc())
+print(abc())
